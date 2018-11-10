@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
-using LoopUp.BitbucketCoveralls.Bitbucket;
-using LoopUp.BitbucketCoveralls.Coveralls;
+using BitbucketCoveralls.Bitbucket;
+using BitbucketCoveralls.Coveralls;
 
-namespace LoopUp.BitbucketCoveralls
+namespace BitbucketCoveralls
 {
     class Program
     {

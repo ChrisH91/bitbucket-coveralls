@@ -1,11 +1,11 @@
-﻿using LoopUp.BitbucketCoveralls.Bitbucket;
-using LoopUp.BitbucketCoveralls.Coveralls;
+﻿using BitbucketCoveralls.Bitbucket;
+using BitbucketCoveralls.Coveralls;
 using Newtonsoft.Json;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
-namespace LoopUp.BitbucketCoveralls
+namespace BitbucketCoveralls
 {
     public class CoverallsRequestor
     {
