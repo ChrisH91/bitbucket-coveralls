@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace LoopUp.BitbucketCoveralls.Bitbucket
+namespace BitbucketCoveralls.Bitbucket
 {
     public class PullRequestActivityList
     {

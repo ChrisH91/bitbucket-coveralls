@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace LoopUp.BitbucketCoveralls.Coveralls
+namespace BitbucketCoveralls.Coveralls
 {
     public class SourceFile
     {

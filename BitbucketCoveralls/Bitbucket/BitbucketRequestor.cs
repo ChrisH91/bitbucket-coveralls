@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
-namespace LoopUp.BitbucketCoveralls.Bitbucket
+namespace BitbucketCoveralls.Bitbucket
 {
     public class BitbucketRequestor
     {

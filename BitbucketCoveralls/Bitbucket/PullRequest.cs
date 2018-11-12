@@ -1,4 +1,4 @@
-﻿namespace LoopUp.BitbucketCoveralls.Bitbucket
+﻿namespace BitbucketCoveralls.Bitbucket
 {
     public class PullRequest
     {

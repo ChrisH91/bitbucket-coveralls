@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace LoopUp.BitbucketCoveralls.Coveralls
+namespace BitbucketCoveralls.Coveralls
 {
     public class SourceFileList
     {

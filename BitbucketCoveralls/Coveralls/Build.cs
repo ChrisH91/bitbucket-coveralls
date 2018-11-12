@@ -9,5 +9,8 @@ namespace BitbucketCoveralls.Coveralls
 
         [JsonProperty("covered_percent")]
         public float CoveredPercent { get; set; }
+
+        [JsonProperty("commit_sha")]
+        public string CommitSha { get; set; }
     }
 }

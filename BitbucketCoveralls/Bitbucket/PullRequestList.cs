@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LoopUp.BitbucketCoveralls.Bitbucket
+namespace BitbucketCoveralls.Bitbucket
 {
     public class PullRequestList
     {
